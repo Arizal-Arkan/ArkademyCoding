@@ -1,3 +1,4 @@
+
 # ArkademyCoding
 Test Arkademy kloter 3
 
@@ -6,3 +7,5 @@ REST API merupakan implementasi dari API dan REST sendiri berarti Representation
 
 
 Kegunaan JSON pada REST API adalah untuk transfer data atau statte ke REST server.
+
+untuk nomor 1-5 dapat di buka melalui https://es6console.com/
